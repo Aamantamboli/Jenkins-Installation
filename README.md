@@ -1,4 +1,7 @@
 # Jenkins-Installation 
+
+![new](https://github.com/user-attachments/assets/9b4f1359-1b21-4231-aeab-8f2358f32bda)
+
 [Always refer on official website of jenkins](https://www.jenkins.io/doc/book/installing/linux/)
 ## Step 1: Go to root user
 ```
